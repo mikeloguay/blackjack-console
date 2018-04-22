@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.UI", "Blackjack.UI\Blackjack.UI.csproj", "{FF07B7CE-885A-4563-ADD7-608885889131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Services", "Blackjack.Services\Blackjack.Services.csproj", "{A56C6951-2349-478C-B7BE-E279EA89C40E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Entities", "Blackjack.Entities\Blackjack.Entities.csproj", "{B7B1C3C1-509B-46FC-A6E8-28148B9EAD53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Entities.Test", "Blackjack.Entities.Test\Blackjack.Entities.Test.csproj", "{DADC9B2B-6138-45C6-B860-B2145B01A1BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utils", "Common.Utils\Common.Utils.csproj", "{E5C9CAF0-74AC-4B74-A39F-E7A32446CBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blackjack.Services.Test", "Blackjack.Services.Test\Blackjack.Services.Test.csproj", "{41E0665C-9DA2-41FE-813A-80E1BA2CD84F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mikeloguay.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Blackjack.Entities.Test\\Blackjack.Entities.Test.csproj
+		SccProjectName1 = Blackjack.Entities.Test
+		SccLocalPath1 = Blackjack.Entities.Test
+		SccProjectUniqueName2 = Blackjack.Entities\\Blackjack.Entities.csproj
+		SccProjectName2 = Blackjack.Entities
+		SccLocalPath2 = Blackjack.Entities
+		SccProjectUniqueName3 = Blackjack.Services\\Blackjack.Services.csproj
+		SccProjectName3 = Blackjack.Services
+		SccLocalPath3 = Blackjack.Services
+		SccProjectUniqueName4 = Blackjack.UI\\Blackjack.UI.csproj
+		SccProjectName4 = Blackjack.UI
+		SccLocalPath4 = Blackjack.UI
+		SccProjectUniqueName5 = Common.Utils\\Common.Utils.csproj
+		SccProjectName5 = Common.Utils
+		SccLocalPath5 = Common.Utils
+		SccProjectUniqueName6 = Blackjack.Services.Test\\Blackjack.Services.Test.csproj
+		SccProjectName6 = Blackjack.Services.Test
+		SccLocalPath6 = Blackjack.Services.Test
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF07B7CE-885A-4563-ADD7-608885889131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF07B7CE-885A-4563-ADD7-608885889131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF07B7CE-885A-4563-ADD7-608885889131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF07B7CE-885A-4563-ADD7-608885889131}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56C6951-2349-478C-B7BE-E279EA89C40E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56C6951-2349-478C-B7BE-E279EA89C40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56C6951-2349-478C-B7BE-E279EA89C40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56C6951-2349-478C-B7BE-E279EA89C40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B1C3C1-509B-46FC-A6E8-28148B9EAD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B1C3C1-509B-46FC-A6E8-28148B9EAD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B1C3C1-509B-46FC-A6E8-28148B9EAD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B1C3C1-509B-46FC-A6E8-28148B9EAD53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADC9B2B-6138-45C6-B860-B2145B01A1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADC9B2B-6138-45C6-B860-B2145B01A1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADC9B2B-6138-45C6-B860-B2145B01A1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADC9B2B-6138-45C6-B860-B2145B01A1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C9CAF0-74AC-4B74-A39F-E7A32446CBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C9CAF0-74AC-4B74-A39F-E7A32446CBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C9CAF0-74AC-4B74-A39F-E7A32446CBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C9CAF0-74AC-4B74-A39F-E7A32446CBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E0665C-9DA2-41FE-813A-80E1BA2CD84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E0665C-9DA2-41FE-813A-80E1BA2CD84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E0665C-9DA2-41FE-813A-80E1BA2CD84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E0665C-9DA2-41FE-813A-80E1BA2CD84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
