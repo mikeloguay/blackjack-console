@@ -4,4 +4,4 @@ Simple Blackjack game with a command line interface.
 
 Changed by mikeloguay2
 
-Cambios vitales desde GitHub directamente
+Estos son los cambios buenos del README. Cambios tras la PR
